@@ -96,7 +96,7 @@ in identifying students at risk of Student Performance.
    
     or run streamlit from my streamlit community link here:
     ```
-     
+     https://student-performance-prediction-analysis.streamlit.app
     ```
 
 5. **Open notebook for analysis:**

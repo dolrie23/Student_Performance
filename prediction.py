@@ -4,8 +4,8 @@ from sklearn.preprocessing import StandardScaler, OneHotEncoder, OrdinalEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 
-model = joblib.load('model\Best_model.pkl')
-preprocessor = joblib.load('model\preprocessor.pkl')
+model = joblib.load('model/Best_model.pkl')
+preprocessor = joblib.load('model/preprocessor.pkl')
 
 
 def preprocessing(df):
