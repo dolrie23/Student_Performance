@@ -60,7 +60,7 @@ in identifying students at risk of Student Performance.
 
 1. **Clone repository:**
     ```bash
-    git clone https://github.com/dolrie23/Expert_2.git
+    git clone https://github.com/dolrie23/Student_Performance.git
     mkdir "Student_Performance"
     ```
 
