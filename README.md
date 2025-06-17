@@ -21,13 +21,13 @@ in identifying students at risk of Student Performance.
 - User-friendly interface predictions manual input of 38 features
 
 ### Internal Factor Input
-![Streamlit_1](\Student_Performance\dolrie23_streamlit_1.JPG)
+![Streamlit_1](..\Student_Performance\dolrie23_streamlit_1.JPG)
 
 ### External Factor Input
-![Streamlit_2](\Student_Performance\dolrie23_streamlit_2.JPG)
+![Streamlit_2](..\Student_Performance\dolrie23_streamlit_2.JPG)
 
 ### Administrative and Economic Factor Input
-![Streamlit_3](\Student_Performance\dolrie23_streamlit_3.JPG)
+![Streamlit_3](..\Student_Performance\dolrie23_streamlit_3.JPG)
 
 - Real-time prediction using lightweight model
 
