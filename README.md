@@ -17,9 +17,21 @@ This project output is to analyze data and build web based prediction using stre
 in identifying students at risk of Student Performance.
 
 ## 📌 Features
+
 - User-friendly interface predictions manual input of 38 features
-- Real-time prediction using trained model
-- Lightweight deployment with Streamlit
+
+### Internal Factor Input
+![Streamlit_1](\Student_Performance\dolrie23_streamlit_1.JPG)
+
+### External Factor Input
+![Streamlit_2](\Student_Performance\dolrie23_streamlit_2.JPG)
+
+### Administrative and Economic Factor Input
+![Streamlit_3](\Student_Performance\dolrie23_streamlit_3.JPG)
+
+- Real-time prediction using lightweight model
+
+- Metabase Visualization
 
 ## ⚙️ Tech Stack
 - Python
